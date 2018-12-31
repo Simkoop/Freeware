@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Wallpaper_slideshow.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+    </startup>
+    <userSettings>
+        <Wallpaper_slideshow.Properties.Settings>
+            <setting name="Autorun" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Selected_folder" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Interval" serializeAs="String">
+                <value>1000</value>
+            </setting>
+            <setting name="Random_ison" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Backup_image" serializeAs="String">
+                <value />
+            </setting>
+        </Wallpaper_slideshow.Properties.Settings>
+    </userSettings>
+</configuration>
